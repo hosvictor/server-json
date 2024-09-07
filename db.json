@@ -1,17 +1,19 @@
 {
-    "full_name": "João da Silva",
-    "birth_date": "01/01/1990",
-    "gender": "Masculino",
-    "field1": "Informação adicional do campo 1",
-    "field2": "Informação adicional do campo 2",
-    "contact_phone": "(11) 99999-9999",
-    "whatsapp_phone": "(11) 98888-8888",
-    "cep": "01234-567",
-    "number": "123",
-    "complement": "Apartamento 101",
-    "attachments": [
-      "Documento1.pdf",
-      "FotoPerfil.jpg"
-    ]
-  }
-  
+  "user":
+    {
+      "full_name": "João da Silva",
+      "birth_date": "01/01/1990",
+      "gender": "Masculino",
+      "field1": "Informação adicional do campo 1",
+      "field2": "Informação adicional do campo 2",
+      "contact_phone": "(11) 99999-9999",
+      "whatsapp_phone": "(11) 98888-8888",
+      "cep": "01234-567",
+      "number": "123",
+      "complement": "Apartamento 101",
+      "attachments": [
+        "Documento1.pdf",
+        "FotoPerfil.jpg"
+      ]
+    }
+}
