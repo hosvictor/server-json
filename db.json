@@ -1,19 +1,218 @@
 {
-  "user":
+  "auth": {
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTIzLCJuYW1lIjoiSm9hbyBkYSBTaWx2YSIsImVtYWlsIjoiam9hb0BleGFtcGxlLmNvbSIsImlzQWRtaW4iOnRydWUsImlzcyI6Im15QXBwIiwiZXhwIjoxNjAxMjM0MDAwfQ.5GSh9VY60XlS5Kc9eF5yfFY4UxT_PAjAERuC3tECpKc"
+  },
+  "user": {
+    "nome": "João da Silva",
+    "data_nascimento": "01/01/1990",
+    "sexo": "Masculino",
+    "campo1": "Informação adicional do campo 1",
+    "campo2": "Informação adicional do campo 2",
+    "numero_telefone": "(11) 99999-9999",
+    "numero_whatsapp": "(11) 98888-8888",
+    "cep": "01234-567",
+    "numero": "123",
+    "compremento": "Apartamento 101",
+    "arquivos": [
+      "Documento1.pdf",
+      "FotoPerfil.jpg"
+    ]
+  },
+  "environment": [
     {
-      "full_name": "João da Silva",
-      "birth_date": "01/01/1990",
-      "gender": "Masculino",
-      "field1": "Informação adicional do campo 1",
-      "field2": "Informação adicional do campo 2",
-      "contact_phone": "(11) 99999-9999",
-      "whatsapp_phone": "(11) 98888-8888",
-      "cep": "01234-567",
-      "number": "123",
-      "complement": "Apartamento 101",
-      "attachments": [
-        "Documento1.pdf",
-        "FotoPerfil.jpg"
-      ]
+      "crm": 10106,
+      "nome": "Rede Soma",
+      "endereco": {
+        "logradouro": "Rua Maria Margarida Zambom Benini",
+        "bairo": "Planalto",
+        "numero": "76",
+        "complemento": "501"
+      },
+      "imageUrl": "https://redesoma.com.br/wp-content/uploads/2022/09/Logo-Rede-Soma-CMYK.png"
+    },
+    {
+      "crm": 10106,
+      "nome": "Rede Soma",
+      "endereco": {
+        "logradouro": "Rua Maria Margarida Zambom Benini",
+        "bairo": "Planalto",
+        "numero": "76",
+        "complemento": "501"
+      },
+      "imageUrl": "https://redesoma.com.br/wp-content/uploads/2022/09/Logo-Rede-Soma-CMYK.png"
+    },
+    {
+      "crm": 10106,
+      "nome": "Rede Soma",
+      "endereco": {
+        "logradouro": "Rua Maria Margarida Zambom Benini",
+        "bairo": "Planalto",
+        "numero": "76",
+        "complemento": "501"
+      },
+      "imageUrl": "https://redesoma.com.br/wp-content/uploads/2022/09/Logo-Rede-Soma-CMYK.png"
+    },
+    {
+      "crm": 10106,
+      "nome": "Rede Soma",
+      "endereco": {
+        "logradouro": "Rua Maria Margarida Zambom Benini",
+        "bairo": "Planalto",
+        "numero": "76",
+        "complemento": "501"
+      },
+      "imageUrl": "https://redesoma.com.br/wp-content/uploads/2022/09/Logo-Rede-Soma-CMYK.png"
     }
+  ],
+  "notification": [
+    {
+      "notificacao_id": 15454324,
+      "crm": 10105,
+      "ambiente": "MB Farmácias",
+      "titulo": "Você tem um presente te esperando",
+      "mensagem": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.",
+      "data": "2024-08-23T00:00:00.000"
+    },
+    {
+      "notificacao_id": 15454327,
+      "crm": 10105,
+      "ambiente": "MB Farmácias",
+      "titulo": "Você tem um presente te esperando",
+      "mensagem": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.",
+      "data": "2024-08-23T00:00:00.000"
+    },
+    {
+      "notificacao_id": 15454329,
+      "crm": 10105,
+      "ambiente": "MB Farmácias",
+      "titulo": "Você tem um presente te esperando",
+      "mensagem": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.",
+      "data": "2024-08-23T00:00:00.000"
+    },
+    {
+      "notificacao_id": 15454320,
+      "crm": 10105,
+      "ambiente": "MB Farmácias",
+      "titulo": "Você tem um presente te esperando",
+      "mensagem": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.",
+      "data": "2024-08-23T00:00:00.000"
+    }
+  ],
+  "contas": [
+    {
+      "conta_id": 1234123417,
+      "situacao": 1,
+      "valor": 150.30,
+      "data_compra": "2024-08-23",
+      "data_vencimento": "2024-08-23"
+    },
+    {
+      "conta_id": 1234123417,
+      "situacao": 1,
+      "valor": 150.30,
+      "data_compra": "2024-08-23",
+      "data_vencimento": "2024-08-23"
+    },
+    {
+      "conta_id": 1234123417,
+      "situacao": 1,
+      "valor": 150.30,
+      "data_compra": "2024-08-23",
+      "data_vencimento": "2024-08-23"
+    },
+    {
+      "conta_id": 1234123417,
+      "situacao": 1,
+      "valor": 150.30,
+      "data_compra": "2024-08-23",
+      "data_vencimento": "2024-08-23"
+    },
+    {
+      "conta_id": 1234123417,
+      "situacao": 1,
+      "valor": 150.30,
+      "data_compra": "2024-08-23",
+      "data_vencimento": "2024-08-23"
+    },
+    {
+      "conta_id": 1234123417,
+      "situacao": 1,
+      "valor": 150.30,
+      "data_compra": "2024-08-23",
+      "data_vencimento": "2024-08-23"
+    }
+  ],
+  "historico": [
+    {
+      "conta_id": 1234123417,
+      "tipo": 1,
+      "data_compora": "2024-08-23",
+      "cupom": "436hff",
+      "valor": 1200.00
+    },
+    {
+      "conta_id": 3425,
+      "tipo": 2,
+      "data_pagamento": "2024-08-23",
+      "data_vencimento": "2024-08-23",
+      "valor": 120.00
+    },
+    {
+      "conta_id": 3425,
+      "tipo": 2,
+      "data_pagamento": "2024-08-23",
+      "data_vencimento": "2024-08-23",
+      "valor": 120.00
+    },
+    {
+      "conta_id": 3425,
+      "tipo": 2,
+      "data_pagamento": "2024-08-23",
+      "data_vencimento": "2024-08-23",
+      "valor": 120.00
+    },
+    {
+      "conta_id": 3425,
+      "tipo": 2,
+      "data_pagamento": "2024-08-23",
+      "data_vencimento": "2024-08-23",
+      "valor": 120.00
+    }
+  ],
+  "conta_detalhe":{
+    "id": 1234123417,
+    "nome_comprador": "Fulaninho",
+    "parcelas": 6,
+    "produtos": [
+      {
+        "descricao": "Anasol Facial Fps75 60G",
+        "quantidade": 4,
+        "valor": 52.60
+      },
+      {
+        "descricao": "Anasol Facial Fps75 60G",
+        "quantidade": 4,
+        "valor": 52.60
+      },
+      {
+        "descricao": "Anasol Facial Fps75 60G",
+        "quantidade": 4,
+        "valor": 52.60
+      }
+    ]
+  },
+  "pagamento_detalhe":{
+    "id": 1234123419,
+    "nome_comprador": "Fulaninho",
+    "parcelas": 6,
+    "informacao_comprovante": [
+      {
+        "pagador": "Anasol Facial Fps75 60G",
+        "cpf": 431241234,
+        "conta": "Banco X",
+        "valor": 4,
+        "data_pagamento": 52.60
+      }
+    ]
+  }
 }
